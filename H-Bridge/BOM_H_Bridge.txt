@@ -1,0 +1,22 @@
+Partlist exported from C:/Users/StratosGK/AppData/Roaming/SPB_Data/eagle/H_Bridge/H_Bridge.sch at 7/4/2018 12:46 PM
+
+Part     Value     Device    Package        Description                    
+A        IRF9540   IRF9540   TO220BV        P-CHANNEL HEXFET POWER-MOS-FET 
+B        IRF540    IRF540    TO220BV        HEXFET Power MOSFET            
+C        IRF9540   IRF9540   TO220BV        P-CHANNEL HEXFET POWER-MOS-FET 
+D        IRF540    IRF540    TO220BV        HEXFET Power MOSFET            
+D1       1N4728    1N4728    DO41Z10        Z DIODE                        
+D2       1N4728    1N4728    DO41Z10        Z DIODE                        
+MOTOR    1X2-3.5MM 1X2-3.5MM 1X2-3.5MM      3.5mm Terminal block           
+P.SUPPLY 1X2-3.5MM 1X2-3.5MM 1X2-3.5MM      3.5mm Terminal block           
+R1       10Kู      R0207/10  0207/10        RESISTOR, European symbol      
+R2       10สู      R0207/10  0207/10        RESISTOR, European symbol      
+R3       10สู      R0207/10  0207/10        RESISTOR, European symbol      
+R4       10สู      R0207/10  0207/10        RESISTOR, European symbol      
+R5       100ู      R0207/10  0207/10        RESISTOR, European symbol      
+R6       100ู      R0207/10  0207/10        RESISTOR, European symbol      
+R7       20สู      R0207/10  0207/10        RESISTOR, European symbol      
+R8       20สู      R0207/10  0207/10        RESISTOR, European symbol      
+TA       2N3904    2N3904    TO92           NPN TRANSISTOR                 
+TB       2N3904    2N3904    TO92           NPN TRANSISTOR                 
+X1       2510-     2510-     PAK100/2500-10 3M (TM) Pak 100 4-Wall Header  
