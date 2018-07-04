@@ -9,14 +9,14 @@ D1       1N4728    1N4728    DO41Z10        Z DIODE
 D2       1N4728    1N4728    DO41Z10        Z DIODE                        
 MOTOR    1X2-3.5MM 1X2-3.5MM 1X2-3.5MM      3.5mm Terminal block           
 P.SUPPLY 1X2-3.5MM 1X2-3.5MM 1X2-3.5MM      3.5mm Terminal block           
-R1       10KÙ      R0207/10  0207/10        RESISTOR, European symbol      
-R2       10ÊÙ      R0207/10  0207/10        RESISTOR, European symbol      
-R3       10ÊÙ      R0207/10  0207/10        RESISTOR, European symbol      
-R4       10ÊÙ      R0207/10  0207/10        RESISTOR, European symbol      
-R5       100Ù      R0207/10  0207/10        RESISTOR, European symbol      
-R6       100Ù      R0207/10  0207/10        RESISTOR, European symbol      
-R7       20ÊÙ      R0207/10  0207/10        RESISTOR, European symbol      
-R8       20ÊÙ      R0207/10  0207/10        RESISTOR, European symbol      
+R1       10ÎšÎ©      R0207/10  0207/10        RESISTOR, European symbol      
+R2       10ÎšÎ©      R0207/10  0207/10        RESISTOR, European symbol      
+R3       10ÎšÎ©      R0207/10  0207/10        RESISTOR, European symbol      
+R4       10ÎšÎ©      R0207/10  0207/10        RESISTOR, European symbol      
+R5       100Î©      R0207/10  0207/10        RESISTOR, European symbol      
+R6       100Î©      R0207/10  0207/10        RESISTOR, European symbol      
+R7       20ÎšÎ©      R0207/10  0207/10        RESISTOR, European symbol      
+R8       20ÎšÎ©      R0207/10  0207/10        RESISTOR, European symbol      
 TA       2N3904    2N3904    TO92           NPN TRANSISTOR                 
 TB       2N3904    2N3904    TO92           NPN TRANSISTOR                 
 X1       2510-     2510-     PAK100/2500-10 3M (TM) Pak 100 4-Wall Header  
